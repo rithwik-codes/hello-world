@@ -31,7 +31,7 @@ import datetime
 
 print("square root of 25 :", math.sqrt(25))
 
-print("random number between 1 to 100 :",random.randint(1,100)
+print("random number between 1 to 100 :",random.randint(1,100))
 
 today = datetime.date.today()
 print("today's date :", today)
